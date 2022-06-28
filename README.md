@@ -14,7 +14,7 @@ Perllogaritja e totalit te faturave behet vetem per rekordet qe jane shfaqur ne 
 Perfundoi opsioni i ngarkimit nga nje dokument excel
 
 ### Te tjera
-Jane pershpejtuar disa faqe, pagination kerkon vetem sasine e produkteve qe perdoruesi pret te shohe ne faqe.
+Jane pershpejtuar disa faqe (Shitjet, Produktet, Produktet sipas Magazines), pagination kerkon vetem sasine e produkteve qe perdoruesi pret te shohe ne faqe.
 Eshte shtuar opsioni qe nje kompani mund te mos lejoje balance negative ne magazine.
 U rregullua glitch qe shkaktonte logout
 
