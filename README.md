@@ -1,14 +1,23 @@
 ## Detyra te hapura
 
- - Perllogaritja e totalit te lista e faturave
- - Mos te lejohet balanca negative ne magazine
- - Rregullimi i gjendjes se magazines me import
+- Integrimi i faqeve me pagination dinamik
  - Ruajtja / shperndarja e ambalazhit
  - Raporti i gjendjes se magazines
- - Raporti i TVSH
  - Kartela e produktit
 
 ===
+## **28.06.2022**
+### Shitjet
+Perllogaritja e totalit te faturave behet vetem per rekordet qe jane shfaqur ne ate faqe.
+
+### Furnizimet
+Perfundoi opsioni i ngarkimit nga nje dokument excel
+
+### Te tjera
+Jane pershpejtuar disa faqe, pagination kerkon vetem sasine e produkteve qe perdoruesi pret te shohe ne faqe.
+Eshte shtuar opsioni qe nje kompani mund te mos lejoje balance negative ne magazine.
+U rregullua glitch qe shkaktonte logout
+
 
 ## **27.06.2022**
 ### Furnizimet
@@ -30,4 +39,5 @@ Jane shtuar **3** indikatore te rinj te kreu,
  1. TVSH e Blerjes
  2. TVSH per tu paguar
  3. Kosto e furnizimeve
+
 
