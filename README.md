@@ -1,11 +1,14 @@
 ## Detyra te hapura
-
-- Integrimi i faqeve me pagination dinamik
  - Ruajtja / shperndarja e ambalazhit
  - Raporti i gjendjes se magazines
  - Kartela e produktit
 
 ===
+## **29.06.2022**
+ - Pagination dinamik te produktet, klientet dhe faqet nderlidhese
+ - Permiresim i strukturave ruajtese ne bazen e te dhenave
+ - Pershpejtim i sistemit te seleksionimit te te dhenave dhe rritja e eficences se kerkimit ne db
+ - Teste integriteti
 ## **28.06.2022**
 ### Shitjet
 Perllogaritja e totalit te faturave behet vetem per rekordet qe jane shfaqur ne ate faqe.
