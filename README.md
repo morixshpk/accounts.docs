@@ -4,6 +4,15 @@
  - Kartela e produktit
 
 ===
+## **30.06.2022**
+ - Integrity tests/ code review/ refactor/ bug fixing ne modulet 
+  1. Kompani
+  2. Magazinat
+  3. Arkat
+  4. Nivelet e çmimeve
+  5. Produktet / Kategorite
+  6. Furnizimet
+
 ## **29.06.2022**
  - Pagination dinamik te produktet, klientet dhe faqet nderlidhese
  - Permiresim i strukturave ruajtese ne bazen e te dhenave
