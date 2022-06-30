@@ -5,12 +5,12 @@
 
 ===
 ## **30.06.2022**
- - Integrity tests/ code review/ refactor/ bug fixing ne modulet 
-  1. Kompani
+ - Integrity tests / code review / refactor / bug fixing ne modulet 
+  1. Kompanitë
   2. Magazinat
   3. Arkat
-  4. Nivelet e çmimeve
-  5. Produktet / Kategorite
+  4. Nivelet e Çmimeve
+  5. Produktet / Kategoritë
   6. Furnizimet
 
 ## **29.06.2022**
