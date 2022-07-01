@@ -1,5 +1,6 @@
 ## Detyra te hapura
  - Ruajtja / shperndarja e ambalazhit
+ - Asetet
  - Raporti i gjendjes se magazines
  - Kartela e produktit
 
