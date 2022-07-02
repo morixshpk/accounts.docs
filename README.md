@@ -1,8 +1,9 @@
-## Detyra te hapura
- - Ruajtja / shperndarja e ambalazhit
- - Asetet
+## Detyra te hapura 
  - Raporti i gjendjes se magazines
  - Kartela e produktit
+ - Totali i shitjeve
+ - Ruajtja / shperndarja e ambalazhit
+ - Asetet
 
 ===
 ## **30.06.2022**
