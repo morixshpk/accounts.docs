@@ -1,4 +1,4 @@
-## Detyra te hapura 
+## Detyra ne zhvillim 
  - Raporti i gjendjes se magazines
  - Te zonat nuk shfaqen klientet (API - ok), te perdoruesi kur i eshte caktuar 1/me shume zona nuk shfaqen te shtimi / edit i klientit
  - Kartela e produktit
