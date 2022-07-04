@@ -2,10 +2,12 @@
  - Raporti i gjendjes se magazines
  - Te zonat nuk shfaqen klientet (API - ok), te perdoruesi kur i eshte caktuar 1/me shume zona nuk shfaqen te shtimi / edit i klientit
  - Kartela e produktit
- - Totali i shitjeve
+ - Totali i shitjeve 
+ 
+## Detyra ne pritje
  - Ruajtja / shperndarja e ambalazhit
  - Asetet
- 
+ - Kosto shtese per mallin ne blerje
 
 ===
 ## **30.06.2022**
