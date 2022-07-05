@@ -2,6 +2,7 @@
  - Ruajtja / shperndarja e ambalazhit
  - Asetet
  - Kosto shtese per mallin ne blerje
+ - Dergo me email (raporte,,etj)
 
 
 ## Detyra ne zhvillim 
