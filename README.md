@@ -6,12 +6,17 @@
 
 
 ## Detyra ne zhvillim 
- - Raporti i gjendjes se magazines
+ - Marzhi i fitimit
+ - gmt ne gjitha vendet
+ - ruaj/modifiko cmimin ne dalje tek shto furnizim
+
+===
+## **05.07.2022**
+ - Raporti i gjendjes se magazinës
  - Te zonat nuk shfaqen klientet (API - ok), te perdoruesi kur i eshte caktuar 1/me shume zona nuk shfaqen te shtimi / edit i klientit
  - Kartela e produktit
  - Totali i shitjeve
-
-===
+ 
 ## **30.06.2022**
  - Integrity tests / code review / refactor / bug fixing ne modulet 
   1. Kompanitë
