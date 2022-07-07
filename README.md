@@ -7,6 +7,7 @@
 
 ## Detyra ne zhvillim 
  - Marzhi i fitimit
+ - Borxhi me limit maksimal per klient
  - gmt ne gjitha vendet
  - ruaj/modifiko cmimin ne dalje tek shto furnizim
 
