@@ -6,12 +6,14 @@
 
 
 ## Detyra ne zhvillim 
- - Marzhi i fitimit
- - Borxhi me limit maksimal per klient
- - gmt ne gjitha vendet
- - ruaj/modifiko cmimin ne dalje tek shto furnizim
+ - Borxhi me limit maksimal per klient - testim
+ - gmt ne gjitha vendet - testim
 
 ===
+## **13.07.2022**
+ - Marzhi i fitimit
+ - ruaj/modifiko cmimin ne dalje tek shto furnizim
+
 ## **05.07.2022**
  - Raporti i gjendjes se magazinës
  - Te zonat nuk shfaqen klientet (API - ok), te perdoruesi kur i eshte caktuar 1/me shume zona nuk shfaqen te shtimi / edit i klientit
