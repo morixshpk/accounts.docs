@@ -1,13 +1,15 @@
-## Detyra ne pritje
- - Ruajtja / shperndarja e ambalazhit
- - Asetet
- - Kosto shtese per mallin ne blerje
+## Detyra ne pritje 
+ - Asetet 
  - Dergo me email (raporte,,etj)
 
 
 ## Detyra ne zhvillim 
  - Borxhi me limit maksimal per klient - testim
  - gmt ne gjitha vendet - testim
+ - Kosto shtese per mallin ne blerje
+ - Ruajtja / shperndarja e ambalazhit
+ - Rishikimi i modulit extra
+ - Cmimi i modifikuar ne fature nuk shfaqet, shfaqet cmimi standart
 
 ===
 ## **13.07.2022**
