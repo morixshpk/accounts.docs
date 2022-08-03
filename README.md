@@ -3,9 +3,7 @@
 
 
 ## Detyra ne zhvillim 
- - Borxhi me limit maksimal per klient - testim
- - Rishikimi i modulit extra
- - Cmimi i modifikuar ne fature nuk shfaqet, shfaqet cmimi standart
+ - API per palet e 3, aplikacionet Android / IOS / Desktop / Te tjera
 
 ===
 ## **03.08.2022**
@@ -13,7 +11,7 @@
 - GMT
 - KMSH
 - Asetet
-
+- Cmimi i modifikuar ne fature
 
 ## **13.07.2022**
  - Marzhi i fitimit
