@@ -1,17 +1,20 @@
 ## Detyra ne pritje 
- - Asetet 
  - Dergo me email (raporte,,etj)
 
 
 ## Detyra ne zhvillim 
  - Borxhi me limit maksimal per klient - testim
- - gmt ne gjitha vendet - testim
- - Kosto shtese per mallin ne blerje
- - Ruajtja / shperndarja e ambalazhit
  - Rishikimi i modulit extra
  - Cmimi i modifikuar ne fature nuk shfaqet, shfaqet cmimi standart
 
 ===
+## **03.08.2022**
+- Asetet
+- GMT
+- KMSH
+- Asetet
+
+
 ## **13.07.2022**
  - Marzhi i fitimit
  - ruaj/modifiko cmimin ne dalje tek shto furnizim
